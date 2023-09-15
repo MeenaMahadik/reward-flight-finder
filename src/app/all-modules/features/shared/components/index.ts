@@ -1,0 +1,1 @@
+export * from './upload-documents/upload-documents.component'
